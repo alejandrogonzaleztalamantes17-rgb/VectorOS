@@ -1,0 +1,10 @@
+ <config>
+    <name>VectorOS</name>
+    <v>1.0</v>
+    <crby>Hey5</crby>
+    <mdin>Python</mdin>
+    <spth>imagination</spth>
+    <spth2>live</spth2>
+    <spth3>My family that created me</spth3>
+    <error>C:/VectorOS/main.py: "{ent}": Command Not Found</error>
+</config>
