@@ -1,1 +1,0 @@
-sys: whilef =Truewhile whilef:    passSegurity whilef.sys
